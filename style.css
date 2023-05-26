@@ -1,3 +1,6 @@
+#cyan{
+  color:cyan;
+}
 .final {
   width: 27.5vh;
   animation: typing 3s steps(13), blink .5s step-end infinite alternate;
